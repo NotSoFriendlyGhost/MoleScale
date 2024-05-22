@@ -14,6 +14,6 @@ python3 table.py
 ```
 * on the Raspberry Pi
 
-## For More Projects
+## For More Documentation
 
-Check out my [digital porfolio!](https://casparchen970.wordpress.com)
+Check out my [digital porfolio!](https://casparchen970.wordpress.com/mole-scale/)
